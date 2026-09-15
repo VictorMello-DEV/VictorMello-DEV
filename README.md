@@ -45,31 +45,6 @@ Atualmente, meu foco está em aprimorar minhas habilidades em **JavaScript, Reac
 | 🐬 MySQL | Banco de Dados |
 | 🐍 Python | Desenvolvimento |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=VictorMello-DEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello-DEV&layout=compact&langs_count=6&theme=tokyonight"
-  />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Busco continuar evoluindo como **Desenvolvedor Full Stack**, colocando meus conhecimentos em prática, adquirindo experiência profissional e contribuindo para o desenvolvimento de soluções e projetos reais.
-
-Tenho interesse em oportunidades na área de **Desenvolvimento Web e Full Stack**.
-
----
 
 ## 📫 Entre em contato
 
